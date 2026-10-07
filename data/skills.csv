@@ -1,0 +1,88 @@
+category,skill
+Programming Languages,Python
+Programming Languages,Java
+Programming Languages,JavaScript
+Programming Languages,R
+Programming Languages,C++
+Programming Languages,C#
+Programming Languages,TypeScript
+Programming Languages,Go
+Programming Languages,Ruby
+Programming Languages,PHP
+Programming Languages,Scala
+Programming Languages,Kotlin
+Programming Languages,Swift
+Web Development,HTML
+Web Development,CSS
+Web Development,React
+Web Development,Angular
+Web Development,Vue.js
+Web Development,Node.js
+Web Development,Django
+Web Development,Flask
+Web Development,Express.js
+Web Development,Bootstrap
+Web Development,jQuery
+Web Development,REST APIs
+Web Development,GraphQL
+Data Science,Machine Learning
+Data Science,Deep Learning
+Data Science,Data Visualization
+Data Science,Statistics
+Data Science,Data Analysis
+Data Science,Pandas
+Data Science,NumPy
+Data Science,Scikit-learn
+Data Science,TensorFlow
+Data Science,PyTorch
+Data Science,Keras
+Data Science,Matplotlib
+Data Science,Seaborn
+Data Science,Data Mining
+Data Science,Feature Engineering
+NLP,NLP
+NLP,NLTK
+NLP,spaCy
+NLP,Transformers
+NLP,Text Mining
+NLP,Sentiment Analysis
+NLP,Text Classification
+NLP,Named Entity Recognition
+NLP,Linguistics
+NLP,Word Embeddings
+Databases,SQL
+Databases,MySQL
+Databases,PostgreSQL
+Databases,MongoDB
+Databases,SQLite
+Databases,Redis
+Databases,Oracle
+Databases,Cassandra
+Cloud & DevOps,AWS
+Cloud & DevOps,Azure
+Cloud & DevOps,GCP
+Cloud & DevOps,Docker
+Cloud & DevOps,Kubernetes
+Cloud & DevOps,Terraform
+Cloud & DevOps,CI/CD
+Cloud & DevOps,Jenkins
+Cloud & DevOps,Linux
+Cloud & DevOps,Git
+Cloud & DevOps,MLOps
+Tools & Software,Excel
+Tools & Software,Tableau
+Tools & Software,Power BI
+Tools & Software,JIRA
+Tools & Software,Figma
+Tools & Software,Postman
+Soft Skills,Communication
+Soft Skills,Problem Solving
+Soft Skills,Requirements Gathering
+Soft Skills,Agile
+Soft Skills,Scrum
+Soft Skills,Project Management
+Computer Vision,Computer Vision
+Computer Vision,OpenCV
+Computer Vision,Image Processing
+Networking,Networking
+Networking,Security
